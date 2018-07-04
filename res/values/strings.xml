@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">24 点游戏</string>
+    <string name="menu_settings">更改成其他点数（23，24，25…）</string>
+
+</resources>
